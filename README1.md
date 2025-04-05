@@ -1,5 +1,4 @@
-
-
+# AI-Powered Guest Experience Personalization System for Hospitality
 
 # Introduction
 
@@ -22,13 +21,13 @@ The system has four main parts:
 To begin with, guest feedback is collected from various sources such as CRM data, review forms, or surveys, and is converted into structured data. This data is then processed using large language models like OpenAI GPT and Meta LLaMA, which help in understanding the sentiment of the feedback and generating suitable suggestions. The processed insights are displayed through a web-based application built using Streamlit, offering hotel staff a clear and interactive view of guest preferences and moods. If the system detects any negative sentiment or potential issues, it sends real-time alerts to the concerned staff through email or internal communication tools, enabling them to take immediate action and improve the guest experience.
 
 #### Evaluation
-Sentiment detection is over 90% accurate.
+- Sentiment detection is over 90% accurate.
 
-Personalized suggestions match guest preferences.
+- Personalized suggestions match guest preferences.
 
-Alerts are sent within 5 minutes.
+- Alerts are sent within 5 minutes.
 
-System improves overall guest satisfaction.
+- System improves overall guest satisfaction.
 
 ##### Conclusion
 
